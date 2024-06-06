@@ -12,10 +12,13 @@ the target website. You must make your program generate a QR code that takes som
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-PUT YOUR QR CODE IMAGE
+
+![image](https://github.com/RamyaKammari/qr-docker-app/assets/123509204/32e6fd27-9f03-4330-857a-e53c7190850c)
+
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+ <img width="1193" alt="Screenshot 2024-06-06 at 2 36 23 PM" src="https://github.com/RamyaKammari/qr-docker-app/assets/123509204/4685cade-6bfd-4ed3-b7d4-b2e002e096ea">
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
